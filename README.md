@@ -3,7 +3,7 @@
 
 ### Table of Contents
 * [Objective](#objective)
-* [The Dataset](#the-dataset)
+* [Dataset](#dataset)
 * [Results](#results)
 
 ## Objective:
