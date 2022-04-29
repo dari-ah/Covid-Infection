@@ -11,7 +11,7 @@
   
 ## Dataset:
   The dataset I used for this project is Coronavirus (COVID-19) Death, provided by ourworldindata.org. I selected data from January 1st, 2020, to August 10th, 2021. The original dataset included information about infected cases and death in each country. It also contained vaccination and hospitalization information, organized as one table. Before beginning my queries, I worked on my data modeling process. I first sorted the data following the data schema attached in [a relative link](Data Schema-Covid.pdf)
-            (path%20with%20spaces/other_file.md). After that, I cleaned the data before importing it into Azure Data Studio. The original dataset, however, had one slight inconvenience. Whenever the continent column was null, the location column held the continent information. Additionally, the location column also included international information. Since this information was not relevant to my query, I decided to exclude them from my tables.
+            [a relative link](Data Schema-Covid.pdf). After that, I cleaned the data before importing it into Azure Data Studio. The original dataset, however, had one slight inconvenience. Whenever the continent column was null, the location column held the continent information. Additionally, the location column also included international information. Since this information was not relevant to my query, I decided to exclude them from my tables.
   
 
 ## Results:
