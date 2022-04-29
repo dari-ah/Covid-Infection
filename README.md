@@ -3,8 +3,8 @@
 
 ##### Table of Contents  
 [Objective](#Objective)  
-[The Dataset](#emphasis)
-[Results](#emphasis)  
+[The Dataset](#header)
+[Results](#header)  
 
 ## Headers
 Table of Contents:
