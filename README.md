@@ -1,11 +1,11 @@
-# Covid_Infection
+# Covid Infection 
   Since its first outbreak, COVID-19 has caused many devastating losses and changes to lives around the world. Considering its major global impacts, I want to investigate how the virus infects different parts of the world and find the potential contributing elements to the infection. I studied the infection rate and death rate in each country and found correlations between factors that can lead to higher cases.
 
 ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="Objective:"/>
+[Objective](#Objective)  
+[The Dataset](#The Dataset)
+[Results](#Results)  
+
 ## Headers
 Table of Contents:
 	+ Objective:
