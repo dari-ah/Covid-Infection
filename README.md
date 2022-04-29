@@ -17,5 +17,7 @@
 -infection rate and population density: The correlation between infection rate and population density is 0.0469. The number indicates some minor relationship between the two elements and is not very significant. The correlation might not be very accurate since the population density of some countries is not included or included incorrectly. Regardlessly, countries with high population density do have high infection rates. 
 
 -infection rate and GDP indexes: The correlation between the two elements is 0.5121, showing a moderate positive relationship. Thus, a country’s GDP index has some contribution to its infection rate
-	
+
+[View my visualization](https://public.tableau.com/app/profile/anh1535/viz/CovidInfectionAnalysis_16506138241610/Dashboard1)
+
 Since all of the elements have a positive relationship with the infection rate, these elements affect how the virus spreads in a country. 
