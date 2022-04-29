@@ -1,10 +1,10 @@
 # Covid Infection 
   Since its first outbreak, COVID-19 has caused many devastating losses and changes to lives around the world. Considering its major global impacts, I want to investigate how the virus infects different parts of the world and find the potential contributing elements to the infection. I studied the infection rate and death rate in each country and found correlations between factors that can lead to higher cases.
 
-###Table of Contents
+### Table of Contents
 * [Objective](#objective)
-	* [The Dataset](#the-dataset)
-	* [Results](#results)
+* [The Dataset](#the-dataset)
+* [Results](#results)
 
 ## Objective:
   Due to the highly contagious nature and airborne transmission of the virus, I first looked at the potential relation between population density and the infection rate. My motivation was that if a country had more people living closely together, the infection rate would be higher. I then looked at the potential correlation between infection rate and GDP indexes. I reasoned that countries with lower GDP might have fewer resources available to prevent and treat the disease. Additionally, countries with lower indexes may have unsafe living conditions, which can contribute to the infection rate. 
